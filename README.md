@@ -44,4 +44,4 @@ Esse aplicativo conta com diversas funcionalidades sobre transações bancárias
 
 Após baixar o projeto em sua máquina basta acessar o ícone Sistema Bancario e utiliza-lo conforme as instruções do seguinte vídeo abaixo:
 
-[Como usar o sistema](https://www.youtube.com/watch?v=16f1VyQ6azg)
+[Como usar o sistema](https://youtu.be/VkxzSnQ-Fvk)
